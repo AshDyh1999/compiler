@@ -1,0 +1,13 @@
+import os
+int
+print hello
++-*/  
+()
+if
+else
+elseif
+a :== 3+4.3
+if i == 9:
+4.333 <= 2
+2dasda
+sda#
