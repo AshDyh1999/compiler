@@ -1,2 +1,2 @@
-# compiler
+# compiler 词法分析器
 这里是编译原理课程作业代码
